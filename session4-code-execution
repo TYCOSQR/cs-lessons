@@ -1,0 +1,25 @@
+# Session 4 – What Happens When Code Runs?
+
+## Code → Execution Flow
+
+- Code (Swift, Python)
+- Compiler/Interpreter
+- Machine Code
+- CPU runs it
+- Output appears
+
+## Processes
+
+- OS creates a process for the code
+- Process gets memory, time, and I/O access
+- Process ends when done
+
+## Codex / AI
+
+- AI models generate code
+- Optional simulation or execution
+- Often done in the cloud, not on your device
+
+## Reflection
+
+Running code is more than just hitting play — it creates a secure environment (a process) that the OS manages.
