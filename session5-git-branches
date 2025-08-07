@@ -1,0 +1,13 @@
+# Session 5 – Git Branches
+
+## What I Learned
+
+- Git tracks project history through commits.
+- Branches let me work on ideas without breaking the main version.
+- Merging lets me bring those ideas back safely.
+
+## Visual
+
+main
+│
+├── feature/my-learning
