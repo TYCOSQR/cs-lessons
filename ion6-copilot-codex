@@ -1,0 +1,50 @@
+# Session 6 – Copilot & Codex
+
+## What is Codex?
+An AI model trained on code. Converts instructions into code, completes code, or explains it.
+
+## What is GitHub Copilot?
+A tool that integrates Codex into IDEs like VS Code and Xcode to help developers write code faster.
+
+## Why Use Them?
+- Code completion
+- Learn faster
+- Explore new libraries or languages
+- Save time on boilerplate
+
+## Summary
+Codex is the engine, Copilot is the interface.
+
+---
+
+## Bonus – Prompt Guide for Codex & Copilot
+
+Use the following structure to write effective prompts when using GitHub Copilot or Codex:
+
+### 🔤 Prompt Formula
+
+**[Action] + [Target] + [Context/Goal]**
+
+---
+
+### ✅ Examples
+
+- **Add** a dark mode toggle in `SettingsView` using `@AppStorage`
+- **Create** a SwiftUI form to input name and email, with email validation
+- **Refactor** `LoginView` to use reusable input components
+- **Generate** unit tests for `DataManager` using XCTest
+- **Fix** the crash in `GameEngine.swift` when input is nil
+- **Write** a Swift class called `UserProfile` that conforms to `Codable`
+
+---
+
+### 💡 Prompt Tips
+
+- Be **specific** about what you want (don’t just say “make this better”)
+- Mention **file or component names** if needed
+- Describe the **expected output** (UI element, behavior, test coverage, etc.)
+- Break large requests into **multiple smaller prompts**
+- Use comments in code to guide inline suggestions
+
+```swift
+// TODO: Add a button to refresh the list
