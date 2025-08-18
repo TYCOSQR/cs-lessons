@@ -1,0 +1,10 @@
+# Session 7 – SwiftUI Contact List (with Copilot)
+
+## Goal
+Create a simple SwiftUI UI to display a list of contacts using Codex/Copilot.
+
+## Prompt Used
+```swift
+// Create a SwiftUI view that shows a list of contacts
+// Each contact has a name and an email
+// Use a simple struct for Contact data
