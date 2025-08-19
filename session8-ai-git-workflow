@@ -1,0 +1,25 @@
+# Session 8 – Branching Strategy & AI Collaboration
+
+## Why Branching Matters with AI
+- Keeps `main` stable
+- Helps trace changes
+- Enables safe testing before merging
+
+## Suggested Workflow
+
+1. Create a branch per task or prompt
+2. Prompt Codex or use Copilot to generate code
+3. Review, test, and edit manually if needed
+4. Commit with clear message
+5. Open PR and merge once ready
+
+## Branch Naming Tips
+
+- `feature/[name]` → for new features
+- `bugfix/[name]` → for fixes
+- `refactor/[name]` → for cleanup work
+
+## Traceability Tip
+
+- Use `[copilot]` or `[ai]` in commit messages if helpful
+- Or track in session notes which parts were AI-generated
